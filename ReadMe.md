@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é João Vitor Batalha Pereira. Sou um apaixonado por tecnologia, especialmente pelo mundo do desenvolvimento front-end. Desde que descobri o fascinante universo da programação, tenho dedicado meu tempo e energia para aprimorar minhas habilidades nessa área.
+My name is João Vitor Batalha Pereira. I am passionate about technology, especially the world of front-end development. Since I discovered the fascinating universe of programming, I have been dedicating my time and energy to improving my skills in this field.
 
 
 ## 🌐 Socials:
